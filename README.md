@@ -6,8 +6,7 @@ GuideDogNet is a novel deep learning-based blind guiding system. It guides the b
 The proposed system consists of an object detection network, depth prediction network, and post-processing module. To provide user-friendly outputs for the blind, we propose a rule-based post-processing module that outputs the label, direction, and distance of the obstacles by combining the results of the object detection network and the depth prediction network. 
 
 Full Paper is available on
-https://drive.google.com/file/d/1peuPLCOasw-wGnHpJR4y3Q3E7xcJ8r6c/view?usp=sharing
-
+https://drive.google.com/file/d/14odHhNyQPyX70LDBkwdxDbrKXAhlrt8l/view?usp=sharing
 
 
 ![GuideDogNet Architecture](./diagram.png)
